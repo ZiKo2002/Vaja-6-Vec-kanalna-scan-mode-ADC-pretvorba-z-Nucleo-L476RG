@@ -1,0 +1,1 @@
+# Vaja-6-Vec-kanalna-scan-mode-ADC-pretvorba-z-Nucleo-L476RG
